@@ -19,5 +19,5 @@ Short Description of Data:  Secure Water Treatment (SWaT), launched on 18 Mar 20
 - density-based spatial clustering of applications with noise (DBSCAN) 
 
 # Predicting anomalies with developed model 
-- Measure the erformance of the model 
+- Measure the Performance of the model 
 - We used 37 attack points from the SWaT data set
