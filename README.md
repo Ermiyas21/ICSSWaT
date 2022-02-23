@@ -35,3 +35,6 @@ Short Description of Data:  Secure Water Treatment (SWaT), launched on 18 Mar 20
 # Predicting anomalies with developed model 
 - Measure the Performance of the model 
 - We used 37 attack points from the SWaT data set
+
+# Dataset link 
+- itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/
